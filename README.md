@@ -9,11 +9,10 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Pilkyu Lee</h1>
-<h3 align="left">Innovative, result-driven professional with a strong commitment to solving complex problems and a passion for object-oriented programming and functional programming. With a proven track record of delivering high-quality software solutions and a deep understanding of system design and infrastructure development. Adept at collaborating with cross-functional teams to drive successful project outcomes. Skilled in network monitoring, risk modeling, and algorithm development. A dedicated problem solver known for transforming complex data challenges into actionable insights. Equipped with outstanding organizational skills, an excellent work ethic, and the ability to multi-task in a high-paced environment.</h3>
+<p align="left">Innovative, result-driven professional with a strong commitment to solving complex problems and a passion for object-oriented programming and functional programming. With a proven track record of delivering high-quality software solutions and a deep understanding of system design and infrastructure development. Adept at collaborating with cross-functional teams to drive successful project outcomes. Skilled in network monitoring, risk modeling, and algorithm development. A dedicated problem solver known for transforming complex data challenges into actionable insights. Equipped with outstanding organizational skills, an excellent work ethic, and the ability to multi-task in a high-paced environment.</p>
 
 
 ## 🛠 Skills
-
 ### Languages
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
