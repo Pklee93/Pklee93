@@ -44,4 +44,4 @@
 - Spearheaded a critical project focused on DNA sequencing, implementing advanced data processing techniques to meticulously clean and preprocess raw DNA sequences.
 - Applied state-of-the-art machine learning algorithms to predict gene functions and achieved outstanding accuracy in annotating genetic sequences, contributing to a deeper understanding of genomic data and its potential applications.
 
-### Other Projects are being added.
+### Other Projects are being posted.
