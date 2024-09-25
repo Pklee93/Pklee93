@@ -8,7 +8,7 @@
   </div>
 </div>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>, My name is Pilkyu Lee</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/><br> My name is Pilkyu Lee</h1>
 <p align="left">Innovative, result-driven professional with a strong commitment to solving complex problems and a passion for object-oriented programming and functional programming. With a proven track record of delivering high-quality software solutions and a deep understanding of system design and infrastructure development. Adept at collaborating with cross-functional teams to drive successful project outcomes. Skilled in network monitoring, risk modeling, and algorithm development. A dedicated problem solver known for transforming complex data challenges into actionable insights. Equipped with outstanding organizational skills, an excellent work ethic, and the ability to multi-task in a high-paced environment.</p>
 
 
